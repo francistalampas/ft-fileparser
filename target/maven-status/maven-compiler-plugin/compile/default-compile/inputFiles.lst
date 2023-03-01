@@ -1,0 +1,13 @@
+/Users/francistalampas/fileparser/src/main/java/com/ft/fileparser/filereader/PDFFileReader.java
+/Users/francistalampas/fileparser/src/main/java/com/ft/fileparser/filereader/TextFileReader.java
+/Users/francistalampas/fileparser/src/main/java/com/ft/fileparser/filestats/ChartStats.java
+/Users/francistalampas/fileparser/src/main/java/com/ft/fileparser/filestats/CharStatsHelper.java
+/Users/francistalampas/fileparser/src/main/java/com/ft/fileparser/filestats/WordStatsHelper.java
+/Users/francistalampas/fileparser/src/main/java/com/ft/fileparser/filestats/Stats.java
+/Users/francistalampas/fileparser/src/main/java/com/ft/fileparser/filestats/CharStatsImpl.java
+/Users/francistalampas/fileparser/src/main/java/com/ft/fileparser/FileParser.java
+/Users/francistalampas/fileparser/src/main/java/com/ft/fileparser/filestats/WordStats.java
+/Users/francistalampas/fileparser/src/main/java/com/ft/fileparser/FileParserApp.java
+/Users/francistalampas/fileparser/src/main/java/com/ft/fileparser/filereader/FileReader.java
+/Users/francistalampas/fileparser/src/main/java/com/ft/fileparser/filereader/FileReaderRegistry.java
+/Users/francistalampas/fileparser/src/main/java/com/ft/fileparser/filestats/WordStatsImpl.java

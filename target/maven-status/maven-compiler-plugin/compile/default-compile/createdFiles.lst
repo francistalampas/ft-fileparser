@@ -1,0 +1,13 @@
+com/ft/fileparser/filereader/PDFFileReader.class
+com/ft/fileparser/filereader/TextFileReader.class
+com/ft/fileparser/filereader/FileReaderRegistry.class
+com/ft/fileparser/filestats/WordStats.class
+com/ft/fileparser/filestats/CharStatsImpl.class
+com/ft/fileparser/FileParserApp.class
+com/ft/fileparser/filestats/Stats.class
+com/ft/fileparser/filestats/CharStatsHelper.class
+com/ft/fileparser/filereader/FileReader.class
+com/ft/fileparser/filestats/WordStatsImpl.class
+com/ft/fileparser/filestats/ChartStats.class
+com/ft/fileparser/FileParser.class
+com/ft/fileparser/filestats/WordStatsHelper.class

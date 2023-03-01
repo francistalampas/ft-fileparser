@@ -1,0 +1,7 @@
+com/ft/fileparser/filestats/ChartStatsHelperTests.class
+com/ft/fileparser/filereader/TextFileReaderTests.class
+com/ft/fileparser/filereader/PDFFileReaderTests.class
+com/ft/fileparser/filestats/WordStatsHelperTests.class
+com/ft/fileparser/FileParserAppTests.class
+com/ft/fileparser/filereader/FileReaderRegistryTests.class
+com/ft/fileparser/FileParserTests.class
